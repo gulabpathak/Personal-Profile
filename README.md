@@ -6,6 +6,14 @@ Windows and Network Support
 
 As a Senior Associate in Project Engineering, I assist IT clients in maintaining and scaling their cloud and IT infrastructure. Having worked for organisations in the IT sector for almost 13 years, I genuinely drive conversions and information technology implementation—not just the certification of particular technologies. It's your ability to assist with the upkeep, management, optimisation, and scalability of your partner's or clients' IT infrastructure. My experience includes working with Windows Server (2003, 2008, 2016), Patch Management (WSUS), Active Directory, RHEL, Ubuntu, SCOM, and In cloud AWS, Azure Axtive Directory. Automation tools like Ansible and Kubernetes. In IP-Voice (Cisco VoIP / Contact Centre (UCCE, Cisco Unified Communications Manager (Call Manager) 2004 graduation (BCOM) from LNMU, pursuing executive postgraduate certification from IntelliPaat in cloud computing.
 
+Achievements:
+
+Connection Award in Jan 2022 For Automated Alarm Audit to Identify Chronic Issues, received Connection Award in 2022.
+
+Start of the Month Award(issued by from AVP in 2022) 
+
+Appreciated by IGL IT Head and was selected best performer for the quarter twice.
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [gulabpathak@gmail.com](mailto:gulabpathak@gmail.com)
 * 🧠  I'm learning Pursuing executive postgraduate certification from IntelliPaat in cloud computing.
